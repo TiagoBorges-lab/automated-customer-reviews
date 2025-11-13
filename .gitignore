@@ -1,0 +1,6 @@
+# --- Kaggle datasets & large data ---
+data/
+notebooks/data/
+datasets/
+*.csv
+*.zip
